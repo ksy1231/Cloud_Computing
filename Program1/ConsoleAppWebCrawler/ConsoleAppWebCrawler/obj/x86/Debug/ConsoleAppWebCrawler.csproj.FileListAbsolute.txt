@@ -1,0 +1,6 @@
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/bin/Debug/ConsoleAppWebCrawler.exe
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/bin/Debug/ConsoleAppWebCrawler.pdb
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/obj/x86/Debug/ConsoleAppWebCrawler.csprojAssemblyReference.cache
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/obj/x86/Debug/ConsoleAppWebCrawler.csproj.CoreCompileInputs.cache
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/obj/x86/Debug/ConsoleAppWebCrawler.exe
+/Users/sooyunkim/Desktop/CSS490A/programs/Program1/ConsoleAppWebCrawler/ConsoleAppWebCrawler/obj/x86/Debug/ConsoleAppWebCrawler.pdb

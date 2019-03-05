@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{129E22D3-FF4A-4879-8F09-DC47C0CD62AA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebStorage/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WebStorage/Controllers/HomeController.cs" Line="106" Column="14" />
+      <File FileName="WebStorage/Models/Customer.cs" Line="3" Column="34" />
+      <File FileName="WebStorage/Views/Home/Index.cshtml" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebStorage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

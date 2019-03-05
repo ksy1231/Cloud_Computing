@@ -1,0 +1,11 @@
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/bin/Debug/netcoreapp2.1/WeatherAPI.deps.json
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/bin/Debug/netcoreapp2.1/WeatherAPI.runtimeconfig.json
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/bin/Debug/netcoreapp2.1/WeatherAPI.runtimeconfig.dev.json
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/bin/Debug/netcoreapp2.1/WeatherAPI.dll
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/bin/Debug/netcoreapp2.1/WeatherAPI.pdb
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.csprojAssemblyReference.cache
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.csproj.CoreCompileInputs.cache
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.AssemblyInfoInputs.cache
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.AssemblyInfo.cs
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.dll
+/Users/sooyunkim/Desktop/CSS490A/programs/Program2/WeatherAPI/WeatherAPI/obj/Debug/netcoreapp2.1/WeatherAPI.pdb

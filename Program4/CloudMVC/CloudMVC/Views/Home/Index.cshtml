@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("ProcessForm", "Home", FormMethod.Post))
+        {
+            <input name="ButtonName" type="submit" value="Load Data" />
+            <input name="ButtonName" type="submit" value="Clear Data" />
+            <hr />
+            <input name="FirstName" type="text" value="" />
+            <input name="LastName" type="text" value="" />
+            <input name="ButtonName" type="submit" value="Query Data" />
+        }
+    </div>
+</div>
